@@ -1,8 +1,8 @@
 # Error Handling
-This Solidity program is a simple Error handling program that demonstrates the essential condition which must be checked before a function is executed in the Solidity programming language. The primary purpose of this program is to handle errors in the function or code encountered while running and executing the code.
+Error handling is an essential part of writing robust and reliable smart contracts. It involves handling unexpected or invalid conditions that may occur during contract execution and ensuring that the contract behaves predictably even in the presence of errors.It allows developers to handle exceptional situations and prevent unexpected behavior in their code. In the provided Solidity code, there are two common error handling mechanisms used: 'assert' and 'require'.
 
 # Description
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has 4 functions to handle the error in a different manner or by using different functions require(), revert(), assert() and the one function is just to set the age. In this Eligible Criteria contract basically, it will check whether your age limit is eligible or not for the vote through this 3 error handling function. This program serves as a simple and straightforward introduction to Error handling and can be used as a stepping stone for more complex projects in the future for handling error in the contract.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain.The program serves as a straightforward introduction to error handling in smart contracts and can act as a foundational stepping stone for more complex projects in the future that require effective error management within the contract. The provided code showcases the usage of assert() to validate a condition, require() to enforce a requirement, and revert() to revert the transaction if a condition is not met.
 
 # Getting Started
 # Executing program
